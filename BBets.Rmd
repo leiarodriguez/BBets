@@ -1,13 +1,14 @@
 ---
 title: "Brownlows Bets"
-author: "Your Name Goes Here"
+author: "Leia Rodriguez"
 output: 
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
 date: "`r Sys.Date()`"    
-    
+
+        
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
